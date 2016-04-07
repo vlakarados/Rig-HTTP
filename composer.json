@@ -7,5 +7,7 @@
             "email": "vlakarados@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "Rig\\HTTP\\": "src/"
+    }
 }
