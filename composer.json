@@ -1,0 +1,11 @@
+{
+    "name": "vlakarados/http",
+    "description": "HTTP package of Rig",
+    "authors": [
+        {
+            "name": "Sergey Telshevsky",
+            "email": "vlakarados@gmail.com"
+        }
+    ],
+    "require": {}
+}
